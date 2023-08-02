@@ -75,7 +75,14 @@
             "movie": 1076487
         }
     ],
-    "tickets":[],
+    "tickets":[
+        {
+            "cinemaShowId": 4,
+            "boughtTickets": 4,
+            "schedule": 1692190800000,
+            "places": ["A1","A2"]
+        }
+    ],
     "history": [],
     "admins": [
         {
