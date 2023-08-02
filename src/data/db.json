@@ -1,0 +1,100 @@
+{
+    "cinemas":[
+        {
+            "id": 1,
+            "name": "Los Molinos",
+            "halls":[1,2]
+        },
+        {
+            "id":2,
+            "name": "Santa Fe",
+            "halls":[1,2]
+        }
+    ],
+    "cinema_shows": [
+        {
+            "id": 1,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692036000000, 1692039600000, 1692115200000, 1692190800000, 1692212400000, 1692277200000, 1692363600000, 1692385200000],
+            "movie": 667538
+        },
+        {
+            "id": 2,
+            "cinemaId": 1,
+            "hall": 2,
+            "schedules": [1692018000000, 1692104400000, 1692201600000, 1692212400000, 1692385200000],
+            "movie": 455476
+        },{
+            "id": 3,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692028800000, 1692104400000, 1692126000000, 1692201600000, 1692288000000, 1692298800000, 1692374400000],
+            "movie": 569094
+        },{
+            "id": 4,
+            "cinemaId": 1,
+            "hall": 2,
+            "schedules": [1692028800000, 1692115200000, 1692190800000, 1692277200000, 1692363600000, 1692374400000],
+            "movie": 872585
+        },{
+            "id": 5,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692039600000, 1692126000000, 1692288000000, 1692298800000],
+            "movie": 1040148
+        },{
+            "id": 6,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692018000000, 1692104400000, 1692190800000, 1692201600000, 1692385200000],
+            "movie": 976573
+        },{
+            "id": 7,
+            "cinemaId": 2,
+            "hall": 2,
+            "schedules": [1692018000000, 1692039600000, 1692104400000, 1692201600000, 1692212400000, 1692288000000, 1692363600000, 1692374400000],
+            "movie": 614479
+        },{
+            "id": 8,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692028800000, 1692126000000, 1692277200000, 1692288000000],
+            "movie": 298618
+        },{
+            "id": 9,
+            "cinemaId": 2,
+            "hall": 2,
+            "schedules": [1692028800000, 1692115200000, 1692126000000, 1692190800000, 1692277200000, 1692298800000, 1692385200000],
+            "movie": 697843
+        },{
+            "id": 10,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692039600000, 1692115200000, 1692212400000, 1692298800000, 1692363600000, 1692374400000],
+            "movie": 1076487
+        }
+    ],
+    "tickets":[],
+    "history": [],
+    "admins": [
+        {
+            "adminName": "Anna",
+            "email": "anna@gmail.com",
+            "password": "123",
+            "image": "https://images.unsplash.com/photo-1517630800677-932d836ab680?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+        },
+        {
+            "adminName": "Mariana",
+            "email": "mariana@gmail.com",
+            "password": "234",
+            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "adminName": "Sam",
+            "email": "sam@gmail.com",
+            "password": "345",
+            "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        }
+    ]
+}
