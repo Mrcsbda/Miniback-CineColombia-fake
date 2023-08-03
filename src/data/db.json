@@ -77,6 +77,8 @@
     ],
     "tickets":[
         {
+            "id":1,
+            "cinemaId": 1,
             "cinemaShowId": 4,
             "boughtTickets": 4,
             "schedule": 1692190800000,
