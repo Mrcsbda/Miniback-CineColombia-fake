@@ -80,7 +80,7 @@
             "id": 1,
             "cinemaId": 1,
             "cinemaShowId": 4,
-            "boughtTickets": 4,
+            "boughtTickets": 2,
             "schedule": 1692190800000,
             "places": ["A1","A2"]
         }
