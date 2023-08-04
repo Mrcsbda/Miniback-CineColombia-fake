@@ -9,11 +9,6 @@
             "id":2,
             "name": "Santa Fe",
             "halls":[1,2]
-        },
-        {
-            "id":3,
-            "name": "Premium Plaza",
-            "halls":[1,2]
         }
     ],
     "cinema_shows": [
