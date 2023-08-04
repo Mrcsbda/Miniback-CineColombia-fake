@@ -82,7 +82,7 @@
             "cinemaShowId": 4,
             "boughtTickets": 2,
             "schedule": 1692190800000,
-            "places": ["A1","A2"]
+            "places": ["A1","A3"]
         }
     ],
     "history": [],
